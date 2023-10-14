@@ -76,7 +76,7 @@ export const footerLinks = [
     links: [
       { title: "How it works", url: "/" },
       { title: "Featured", url: "/" },
-      { title: "Partnership", url: "/" },
+      // { title: "Partnership", url: "/" },
       { title: "Bussiness Relation", url: "/" },
     ],
   },
@@ -86,16 +86,16 @@ export const footerLinks = [
       { title: "Events", url: "/" },
       { title: "Blog", url: "/" },
       { title: "Podcast", url: "/" },
-      { title: "Invite a friend", url: "/" },
+      // { title: "Invite a friend", url: "/" },
     ],
   },
   {
     title: "Socials",
     links: [
-      { title: "Discord", url: "/" },
-      { title: "Instagram", url: "/" },
-      { title: "Twitter", url: "/" },
-      { title: "Facebook", url: "/" },
+      { title: "linkedin", url: "https://www.linkedin.com/in/renzo-silva/" },
+      // { title: "Instagram", url: "/" },
+      { title: "GitHub", url: "https://github.com/rensilva5" },
+      { title: "More Projects", url: "https://renzosilva.net/" },
     ],
   },
 ];
